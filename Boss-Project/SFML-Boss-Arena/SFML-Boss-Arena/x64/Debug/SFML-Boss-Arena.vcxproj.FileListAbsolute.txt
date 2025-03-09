@@ -1,0 +1,3 @@
+C:\Users\greyw\source\repos\SFML-Boss-Arena\SFML-Boss-Arena\x64\Debug\SFML-Bos.981ACD6B.Up2Date
+D:\Boss-Project-main\SFML-Boss-Arena\SFML-Boss-Arena\x64\Debug\SFML-Bos.981ACD6B.Up2Date
+D:\Ecole\VisualStudio\boss_project_new_try\SFML-Boss-Arena\SFML-Boss-Arena\x64\Debug\SFML-Bos.981ACD6B.Up2Date
